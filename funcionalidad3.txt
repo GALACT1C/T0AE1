@@ -1,1 +1,5 @@
+<<<<<<< master
 sdsnñgndfñndflgndlgndflg
+=======
+sdfljndlfnsdlfnsldfnsdljfnsdlfnsdflsn
+>>>>>>> Subo funcionalidad 3 para resolver hotfix en master
